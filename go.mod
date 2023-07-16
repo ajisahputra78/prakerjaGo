@@ -5,6 +5,7 @@ go 1.20
 require github.com/labstack/echo v3.3.10+incompatible
 
 require (
+	github.com/go-sql-driver/mysql v1.7.1
 	github.com/labstack/gommon v0.4.0 // indirect
 	github.com/mattn/go-colorable v0.1.11 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
